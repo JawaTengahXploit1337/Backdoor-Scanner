@@ -2,7 +2,7 @@
 
 A PHP-based tool to scan and detect potential backdoors, malicious files, and suspicious code in web directories.
 
-![Demo](https://i.pinimg.com/originals/0f/ea/cf/0feacf1898bd3223fa59a32c1c03d5ca.gif)
+![Demo](scanss.png)
 
 ## Features ✨
 
