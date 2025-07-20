@@ -32,7 +32,7 @@ The scanner checks for:
 Click the image below to automatically download:
 
 <a href="https://raw.githubusercontent.com/JawaTengahXploit1337/Backdoor-Scanner/main/scan.php" download="backdoor_scanner.php">
-  <img src="https://www.pngplay.com/wp-content/uploads/6/Black-Download-Button-PNG-Clipart-Background.png" 
+  <img src="https://jawatengahxploit1337.github.io/foto/downloadbutton.png" 
        alt="Download Backdoor Scanner"
        style="width:300px; height:auto; cursor:pointer; border:2px solid #4CAF50; border-radius:8px;">
 </a>
@@ -69,5 +69,5 @@ Contributions are welcome! Please open an issue or pull request for:
 This tool is provided for educational and security purposes only. The author is not responsible for any misuse or damage caused by this software. Always backup your files before scanning/deleting.
 
 <p align="center">
-    <a href="https://www.buymeacoffee.com/fabston"><img alt="Buy Me A Coffee" title="☕️" src="https://raw.githubusercontent.com/fabston/TradingView-Webhook-Bot/master/assets/bmac.png" width=200px></a>
+    <a href="https://www.buymeacoffee.com/fabston"><img alt="Buy Me A Coffee" title="☕️" src="https://jawatengahxploit1337.github.io/foto/buycoffe.png" width=200px></a>
 </p>
