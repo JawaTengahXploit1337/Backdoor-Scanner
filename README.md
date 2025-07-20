@@ -28,6 +28,15 @@ The scanner checks for:
 2. Access it via browser
 3. Enter the path you want to scan (defaults to current directory)
 
+## Download Scanner 📥
+Click the image below to automatically download:
+
+<a href="https://raw.githubusercontent.com/JawaTengahXploit1337/Backdoor-Scanner/main/scan.php" download="backdoor_scanner.php">
+  <img src="https://www.pngplay.com/wp-content/uploads/6/Black-Download-Button-PNG-Clipart-Background.png" 
+       alt="Download Backdoor Scanner"
+       style="width:300px; height:auto; cursor:pointer; border:2px solid #4CAF50; border-radius:8px;">
+</a>
+
 ## Usage 🖥️
 
 1. Enter the directory path to scan
