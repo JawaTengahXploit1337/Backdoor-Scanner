@@ -69,5 +69,5 @@ Contributions are welcome! Please open an issue or pull request for:
 This tool is provided for educational and security purposes only. The author is not responsible for any misuse or damage caused by this software. Always backup your files before scanning/deleting.
 
 <p align="center">
-    <a href="https://www.buymeacoffee.com/fabston"><img alt="Buy Me A Coffee" title="☕️" src="https://jawatengahxploit1337.github.io/foto/buycoffe.png" width=200px></a>
+    <a href="https://www.buymeacoffee.com/asmarahancur"><img alt="Buy Me A Coffee" title="☕️" src="https://jawatengahxploit1337.github.io/foto/buycoffe.png" width=200px></a>
 </p>
